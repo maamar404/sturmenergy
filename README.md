@@ -28,9 +28,3 @@ A corporate product showcase website built on WordPress for **Sturm Energy** (St
 
 ---
 
-## Local Setup (For Developers)
-
-1. Set up a standard WordPress installation locally (e.g., via XAMPP or LocalWP).
-2. Install and activate the required plugins (**Elementor**, **Advanced Custom Fields**, **WPForms**).
-3. Copy the `wp-content/themes/elementor-child/` directory from this repository into your local `wp-content/themes/` folder.
-4. Activate the child theme in **Appearance → Themes** and configure the ACF field groups.
